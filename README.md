@@ -3,9 +3,9 @@ Project Name: Shippping-Label-Maker
 Key Features of Project:
 1.Login Page for User Login.
 2.Material UI Stepper for different steps.
-3.Differnt Hooks used.
+3.Different Hooks used.
 4.Used props and State.
-5.Shipping Cost Calculated using required formula.
+5.Shipping Cost Calculated.
 
 
 
